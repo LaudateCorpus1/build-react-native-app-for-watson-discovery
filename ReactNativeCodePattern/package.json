@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.1.2",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "react": "16.4.1",
     "react-native": "0.56.0",
     "react-native-elements": "^0.19.1",
